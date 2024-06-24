@@ -40,8 +40,8 @@ Follow these steps to build and run the project:
 To set up the project on your local machine, follow these steps:
 
 1. Clone the repository using either of the following commands:
-   - For HTTPS: `git clone https://github.com/duncankibet/LogiceaCardManagement.git`
-   - For SSH: `git clone git@github.com:duncankibet/LogiceaCardManagement.git`
+   - For HTTPS: `git clone https://github.com/fsdkibe/logicea-card-management.git`
+   - For SSH: `git clone git@github.com:fsdkibe/logicea-card-management.git`
 
 2. Navigate to the project directory and execute the following commands:
 
